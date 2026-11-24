@@ -6,11 +6,10 @@ fmeResource:
   impressionsDisabled: false
   treatments:
   - name: "on"
-    description: "on"
+    description: help
     baseline: false
     defaultTreatment: false
   - name: "off"
-    description: "off"
     baseline: false
     defaultTreatment: true
   defaultRule:
