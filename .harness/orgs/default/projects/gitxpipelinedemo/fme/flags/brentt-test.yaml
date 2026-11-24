@@ -1,0 +1,12 @@
+fmeResource:
+  name: brentt-test
+  description: An amazing description. Is this making it into Git
+  trafficType: user
+  rolloutStatus: Internal Testing
+  tags:
+  - kitchensink
+  - newtag
+  - booltag
+  owners:
+  - type: user
+    id: IXq51FJCSBKEoY311UFUIw
