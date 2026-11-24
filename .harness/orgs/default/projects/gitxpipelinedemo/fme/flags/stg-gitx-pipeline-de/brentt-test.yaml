@@ -1,0 +1,16 @@
+fmeResource:
+  flagRef: brentt-test
+  environment: Stg-gitx-pipeline-de
+  status: active
+  killed: false
+  impressionsDisabled: false
+  treatments:
+  - name: "on"
+    baseline: false
+    defaultTreatment: false
+  - name: "off"
+    baseline: false
+    defaultTreatment: true
+  defaultRule:
+  - treatment: "off"
+    size: 100
