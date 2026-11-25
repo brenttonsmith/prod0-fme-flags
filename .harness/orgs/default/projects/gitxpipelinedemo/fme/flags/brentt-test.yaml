@@ -1,6 +1,7 @@
 fmeResource:
   name: brentt-test
-  description: An amazing description. Is this making it into Git. No it is not.
+  description: An amazing description. Is this making it into Git. It must be. Can
+    it make a round trip?
   trafficType: user
   rolloutStatus: Internal Testing
   tags:
